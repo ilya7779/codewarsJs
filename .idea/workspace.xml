@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d66e656-e7a1-498c-844a-58a5c22022ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/are-you-playing-banjo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8kyu/convert-a-boolean-to-a-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/convert-a-boolean-to-a-string.js" afterDir="false" />
-    </list>
+    <list default="true" id="5d66e656-e7a1-498c-844a-58a5c22022ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +55,7 @@
       <workItem from="1725441155863" duration="3494000" />
       <workItem from="1725554585643" duration="35000" />
       <workItem from="1725873081271" duration="2293000" />
+      <workItem from="1725875421161" duration="297000" />
     </task>
     <servers />
   </component>
