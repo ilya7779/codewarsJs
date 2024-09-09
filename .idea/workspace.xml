@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d66e656-e7a1-498c-844a-58a5c22022ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kyu/convert-a-boolean-to-a-string.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8kyu/convert-a-boolean-to-a-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/8kyu/convert-a-boolean-to-a-string.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <workItem from="1725432517953" duration="2005000" />
       <workItem from="1725441155863" duration="3494000" />
       <workItem from="1725554585643" duration="35000" />
-      <workItem from="1725873081271" duration="322000" />
+      <workItem from="1725873081271" duration="1953000" />
     </task>
     <servers />
   </component>
