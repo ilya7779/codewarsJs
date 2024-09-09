@@ -1,15 +1,8 @@
 
-function areYouPlayingBanjo(name) {
-    return name[0] === 'r' || name[0] === 'R' ? name + " plays banjo" : name + " does not play banjo";
+function booleanToString(b){
+    return String(b);
 }
 
-// Create a function which answers the question "Are you playing banjo?".
-//     If your name starts with the letter "R" or lower case "r", you are playing banjo!
+// Implement a function which convert the given boolean value into its string representation.
 //
-//     The function takes a name as its only argument, and returns one of the following
-// strings:
-//
-//     name + " plays banjo"
-// name + " does not play banjo"
-// Names given are always valid strings.
-
+//     Note: Only valid inputs will be given.
